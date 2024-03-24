@@ -8,5 +8,7 @@ import (
 func main() {
 	fmt.Println("Idiomatic")
 	fmt.Println(chapter_three_composite_types.SimpleArray())
+	fmt.Println(chapter_three_composite_types.SimpleInitializedArray())
+	fmt.Println(chapter_three_composite_types.NewSpecialArray())
 
 }
